@@ -22,6 +22,7 @@ function Get-HaloObjectTemplate {
             'Asset',
             'Attachment',
             'Client',
+            'ClientPopupNote',
             'CustomButton',
             'Invoice',
             'Item',

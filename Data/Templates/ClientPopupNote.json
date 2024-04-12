@@ -1,0 +1,13 @@
+{
+    "id": 0,
+    "client_id": 0,
+    "date_created": "2024-03-14T18:21:56.46",
+    "note": "string",
+    "dismissable": true,
+    "read_status": -1,
+    "displaymodal": false,
+    "displayhtml": true,
+    "limitdaterange": false,
+    "startdate": "1901-01-01T00:00:00.000Z",
+    "enddate": "1901-01-01T00:00:00.000Z"
+}
